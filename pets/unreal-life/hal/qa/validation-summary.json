@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "sprite_version": 2,
+  "format": "PNG",
+  "mode": "RGBA",
+  "encoded_bytes": 1652544,
+  "sha256": "f866cbb54f79f89ad49ee9094f3416163cb1dd65cef5b65feef9f426a19db0ba",
+  "dimensions": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208
+  },
+  "quality": {
+    "jump_airborne_lift_pixels": 48,
+    "jump_landing_delta_pixels": 0,
+    "maximum_look_center_drift_pixels": 5.0,
+    "maximum_look_width_ratio": 1.1139240506329113,
+    "transparent_rgb_residue_pixels": 0
+  },
+  "errors": [],
+  "review_notes": [
+    "A small number of near-vertical diagonal look directions are visually subtle.",
+    "All hard cardinal-direction checks passed."
+  ]
+}
+
