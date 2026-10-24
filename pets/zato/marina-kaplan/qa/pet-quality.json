@@ -1,0 +1,63 @@
+{
+  "ok": true,
+  "atlas": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\spritesheet-extended-v3-final.png",
+  "encoded_bytes": 1554775,
+  "sha256": "b187d0186ac23747e6a6e035b020178ecedfd28621e289866af7cb05b5f42a74",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      202,
+      167,
+      198,
+      202
+    ],
+    "airborne_lift_pixels": 35,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      94.0,
+      94.0,
+      94.5,
+      94.5,
+      94.5,
+      94.0,
+      95.0,
+      94.0,
+      95.0,
+      93.5,
+      93.5,
+      93.5,
+      93.5,
+      94.5,
+      93.5,
+      93.5
+    ],
+    "look_widths": [
+      72,
+      72,
+      73,
+      73,
+      73,
+      72,
+      72,
+      72,
+      70,
+      69,
+      69,
+      69,
+      69,
+      69,
+      69,
+      69
+    ],
+    "maximum_center_drift_pixels": 2.5,
+    "maximum_width_ratio": 1.0579710144927537
+  },
+  "errors": [],
+  "warnings": [
+    "337.5->000 diff is a local outlier (1505 pixels vs neighbor average 677)"
+  ]
+}

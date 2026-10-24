@@ -1,0 +1,58 @@
+{
+  "version": "marina-proportion-contract-v3",
+  "cell": {
+    "width": 192,
+    "height": 208
+  },
+  "canonical_source": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\service-current.png",
+  "canonical_frame": {
+    "row": 0,
+    "column": 0
+  },
+  "landmarks": {
+    "hair_top": 6,
+    "eye_line": 31,
+    "chin": 55,
+    "shoulder_line": 67,
+    "elbow_line_neutral": 94,
+    "waist_line": 102,
+    "skirt_hem": 141,
+    "knee_line": 166,
+    "ankle_line": 193,
+    "sole_baseline": 202
+  },
+  "measurements": {
+    "neutral_visible_bbox": [
+      60,
+      6,
+      132,
+      202
+    ],
+    "neutral_visible_height": 196,
+    "neutral_visible_width": 72,
+    "body_center_x": 96,
+    "head_silhouette_width": 52,
+    "head_silhouette_height": 55,
+    "shoulder_width": 44,
+    "shoulder_to_waist": 35,
+    "waist_to_hem": 39,
+    "hem_to_knee": 25,
+    "knee_to_sole": 36
+  },
+  "drawing_rules": [
+    "Use this neutral frame as the only anatomical scale reference for every action.",
+    "Never enlarge or shrink the head, torso, skirt, arms, hands, thighs, calves, or boots between states.",
+    "Pose changes may translate and rotate linked body segments, but their lengths and thicknesses stay fixed.",
+    "Standing entry and exit poses use sole baseline y=202 and hair top near y=6.",
+    "Running and jumping may bend the legs or lift the whole body; apparent height may change only through articulation or vertical translation.",
+    "Perspective foreshortening is allowed only on the forward fist-bump forearm and fist; head and torso scale remain canonical.",
+    "Keep the red chest pin on Marina's right side and do not mirror directional rows."
+  ],
+  "qa_tolerances_px": {
+    "head_width": 3,
+    "head_height": 3,
+    "shoulder_width": 4,
+    "upright_full_height": 3,
+    "sole_baseline": 1
+  }
+}

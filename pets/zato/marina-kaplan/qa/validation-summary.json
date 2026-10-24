@@ -7,32 +7,36 @@
     "height": 2288,
     "cell_width": 192,
     "cell_height": 208,
-    "encoded_bytes": 1705917,
-    "sha256": "da7155b82d08ba24d2462703fa8826c44f09fd62da064c679221b345eb5efeb1"
+    "encoded_bytes": 1554775,
+    "sha256": "b187d0186ac23747e6a6e035b020178ecedfd28621e289866af7cb05b5f42a74"
   },
   "quality_gate": {
     "passed": true,
     "errors": [],
     "warnings": [
-      "The 157.5-to-180-degree look transition is more pronounced than its neighbors; manual review confirmed the intended down-right to down semantics and correct clockwise order."
+      "The 337.5-to-000-degree look transition has a larger pixel difference than its immediate neighbors; normal-size review confirmed the intended up-left to up closure, unchanged scale, and stable registration."
     ],
-    "airborne_lift_pixels": 41,
+    "airborne_lift_pixels": 35,
     "landing_delta_pixels": 0,
-    "maximum_look_center_drift_pixels": 3.0,
-    "maximum_look_width_ratio": 1.0151515151515151
+    "maximum_look_center_drift_pixels": 2.5,
+    "maximum_look_width_ratio": 1.0579710144927537
   },
   "service_preflight": {
     "valid": true,
     "errors": [],
     "pet_id": "pet_6adc334d80c481919595d39ac58865f2",
-    "created": true,
+    "created": false,
     "updated": true,
     "selected": true
   },
   "scale_registration": {
     "passed": true,
-    "reference": "idle strip supplied by the user",
-    "shared_source_to_cell_scale": 0.28344179320318147,
+    "reference": "canonical neutral mother model",
+    "canonical_design_height": 196,
+    "final_neutral_height": 192,
+    "shared_source_to_cell_scale": 0.3053435114503817,
+    "per_frame_scaling": false,
+    "per_state_scaling": false,
     "center_x": 96,
     "ground_baseline": 202,
     "jump_lift_preserved": true

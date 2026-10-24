@@ -14,8 +14,8 @@
     "rows": 11,
     "cell_width": 192,
     "cell_height": 208,
-    "encoded_bytes": 1705917,
-    "sha256": "da7155b82d08ba24d2462703fa8826c44f09fd62da064c679221b345eb5efeb1"
+    "encoded_bytes": 1554775,
+    "sha256": "b187d0186ac23747e6a6e035b020178ecedfd28621e289866af7cb05b5f42a74"
   },
   "animations": [
     { "row": 0, "state": "idle", "frames": 6 },
@@ -37,12 +37,16 @@
     "service_errors": 0
   },
   "scale_registration": {
-    "reference": "idle strip",
-    "shared_source_to_cell_scale": 0.28344179320318147,
+    "reference": "canonical neutral mother model",
+    "canonical_design_height": 196,
+    "final_neutral_height": 192,
+    "shared_source_to_cell_scale": 0.3053435114503817,
+    "per_frame_scaling": false,
+    "per_state_scaling": false,
     "center_x": 96,
     "ground_baseline": 202,
-    "jump_lift_pixels": 41,
+    "jump_lift_pixels": 35,
     "landing_delta_pixels": 0
   },
-  "active_on_creation": false
+  "active_on_last_update": true
 }

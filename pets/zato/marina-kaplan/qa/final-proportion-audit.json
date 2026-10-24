@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "method": "single canonical mother model plus one global extraction scale for every standard state",
+  "canonical_design_height_px": 196,
+  "final_neutral_height_px": 192,
+  "global_source_to_cell_scale": 0.3053435114503817,
+  "per_frame_scaling": false,
+  "per_state_scaling": false,
+  "cell": {"width": 192, "height": 208},
+  "final_landmarks_px": {
+    "hair_top": 10,
+    "eye_line": 35,
+    "chin": 58,
+    "shoulder_line": 70,
+    "waist_line": 104,
+    "skirt_hem": 142,
+    "knee_line": 167,
+    "ankle_line": 193,
+    "sole_baseline": 202
+  },
+  "final_anatomy_px": {
+    "head_silhouette_width": 51,
+    "head_silhouette_height": 54,
+    "shoulder_width": 43,
+    "shoulder_to_waist": 34,
+    "waist_to_hem": 38,
+    "hem_to_knee": 25,
+    "knee_to_sole": 35
+  },
+  "interpretation": "Running, crouching and jumping frames may have lower visible bounding-box height only because fixed-length limb segments articulate or the unchanged body translates vertically; they are not independently fitted to their cells."
+}

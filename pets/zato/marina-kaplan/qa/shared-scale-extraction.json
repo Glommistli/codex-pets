@@ -3,8 +3,13 @@
   "method": "one shared idle-derived source-to-cell scale",
   "target_reference": "decoded/idle.png (user-confirmed target scale)",
   "target_idle_height": 196,
-  "source_idle_median_height": 691.5,
-  "shared_scale": 0.28344179320318147,
+  "source_idle_median_height": 630.0,
+  "desired_scale": 0.3111111111111111,
+  "safe_width_scale": 0.5784615384615385,
+  "safe_height_scale": 0.3053435114503817,
+  "max_source_width": 325,
+  "max_source_vertical_extent": 655,
+  "shared_scale": 0.3053435114503817,
   "target_center_x": 96,
   "target_baseline": 202,
   "jump_lift_preserved": true,
@@ -12,1317 +17,1317 @@
     {
       "state": "idle",
       "frames": 6,
-      "source_row_ground": 711,
+      "source_row_ground": 697,
       "frame_reports": [
         {
           "frame": 0,
           "source_bbox": [
-            105,
-            18,
-            360,
-            711
+            75,
+            67,
+            311,
+            697
           ],
           "source_size": [
-            255,
-            693
+            236,
+            630
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
             60,
-            6,
+            10,
             132,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\00.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\idle\\00.png"
         },
         {
           "frame": 1,
           "source_bbox": [
-            445,
-            20,
-            717,
-            711
+            434,
+            67,
+            671,
+            697
           ],
           "source_size": [
-            272,
-            691
+            237,
+            630
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            58,
-            6,
-            135,
+            60,
+            10,
+            132,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\01.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\idle\\01.png"
         },
         {
           "frame": 2,
           "source_bbox": [
-            781,
-            22,
-            1048,
-            711
+            795,
+            67,
+            1031,
+            697
           ],
           "source_size": [
-            267,
-            689
+            236,
+            630
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            58,
-            7,
-            134,
+            60,
+            10,
+            132,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\02.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\idle\\02.png"
         },
         {
           "frame": 3,
           "source_bbox": [
-            1109,
-            21,
-            1420,
-            711
+            1150,
+            67,
+            1385,
+            697
           ],
           "source_size": [
-            311,
-            690
+            235,
+            630
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            52,
-            6,
-            140,
+            60,
+            10,
+            132,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\03.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\idle\\03.png"
         },
         {
           "frame": 4,
           "source_bbox": [
-            1456,
-            18,
-            1713,
-            711
+            1512,
+            67,
+            1748,
+            697
           ],
           "source_size": [
-            257,
-            693
+            236,
+            630
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
             60,
-            6,
-            133,
+            10,
+            132,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\04.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\idle\\04.png"
         },
         {
           "frame": 5,
           "source_bbox": [
-            1808,
-            19,
-            2064,
-            711
+            1874,
+            67,
+            2110,
+            697
           ],
           "source_size": [
-            256,
-            692
+            236,
+            630
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
             60,
-            6,
-            133,
+            10,
+            132,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\05.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\idle\\05.png"
         }
       ]
     },
     {
       "state": "running-right",
       "frames": 8,
-      "source_row_ground": 653,
+      "source_row_ground": 632,
       "frame_reports": [
         {
           "frame": 0,
           "source_bbox": [
-            1,
-            143,
-            286,
-            651
+            30,
+            191,
+            270,
+            631
           ],
           "source_size": [
-            285,
-            508
+            240,
+            440
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            56,
-            58,
-            137,
+            60,
+            68,
+            133,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\00.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-right\\00.png"
         },
         {
           "frame": 1,
           "source_bbox": [
-            235,
-            146,
-            542,
-            651
+            281,
+            198,
+            527,
+            632
           ],
           "source_size": [
-            307,
-            505
+            246,
+            434
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            52,
-            59,
-            139,
+            58,
+            69,
+            133,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\01.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-right\\01.png"
         },
         {
           "frame": 2,
           "source_bbox": [
-            554,
-            140,
-            812,
-            651
+            587,
+            194,
+            782,
+            632
           ],
           "source_size": [
-            258,
-            511
+            195,
+            438
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            57,
-            133,
+            66,
+            68,
+            126,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\02.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-right\\02.png"
         },
         {
           "frame": 3,
           "source_bbox": [
-            817,
-            129,
-            1095,
-            648
+            833,
+            172,
+            1050,
+            584
           ],
           "source_size": [
-            278,
-            519
+            217,
+            412
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            56,
-            55,
-            135,
+            63,
+            76,
+            129,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\03.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-right\\03.png"
         },
         {
           "frame": 4,
           "source_bbox": [
-            1057,
-            139,
-            1379,
-            651
+            1062,
+            192,
+            1339,
+            631
           ],
           "source_size": [
-            322,
-            512
+            277,
+            439
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            50,
-            57,
-            141,
+            54,
+            68,
+            139,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\04.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-right\\04.png"
         },
         {
           "frame": 5,
           "source_bbox": [
-            1368,
-            140,
-            1624,
-            651
+            1370,
+            198,
+            1598,
+            632
           ],
           "source_size": [
-            256,
-            511
+            228,
+            434
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            57,
-            133,
+            61,
+            69,
+            131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\05.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-right\\05.png"
         },
         {
           "frame": 6,
           "source_bbox": [
-            1648,
-            145,
-            1921,
-            653
+            1661,
+            194,
+            1857,
+            632
           ],
           "source_size": [
-            273,
-            508
+            196,
+            438
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            58,
-            58,
-            135,
+            66,
+            68,
+            126,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\06.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-right\\06.png"
         },
         {
           "frame": 7,
           "source_bbox": [
-            1868,
-            139,
-            2172,
-            651
+            1911,
+            172,
+            2127,
+            578
           ],
           "source_size": [
-            304,
-            512
+            216,
+            406
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            53,
-            57,
-            139,
+            63,
+            78,
+            129,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\07.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-right\\07.png"
         }
       ]
     },
     {
       "state": "running-left",
       "frames": 8,
-      "source_row_ground": 649,
+      "source_row_ground": 579,
       "frame_reports": [
         {
           "frame": 0,
           "source_bbox": [
-            10,
-            139,
-            324,
-            648
+            33,
+            194,
+            292,
+            578
           ],
           "source_size": [
-            314,
-            509
-          ],
-          "source_lift": 0,
-          "target_baseline": 202,
-          "target_bbox": [
-            52,
-            58,
-            141,
-            202
-          ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\00.png"
-        },
-        {
-          "frame": 1,
-          "source_bbox": [
-            311,
-            141,
-            595,
-            649
-          ],
-          "source_size": [
-            284,
-            508
+            259,
+            384
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
             56,
-            58,
-            136,
+            85,
+            135,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\01.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-left\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            324,
+            197,
+            535,
+            578
+          ],
+          "source_size": [
+            211,
+            381
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            64,
+            86,
+            128,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-left\\01.png"
         },
         {
           "frame": 2,
           "source_bbox": [
-            564,
-            136,
-            864,
-            647
+            585,
+            193,
+            804,
+            579
           ],
           "source_size": [
-            300,
-            511
+            219,
+            386
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            54,
-            57,
-            139,
+            62,
+            84,
+            129,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\02.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-left\\02.png"
         },
         {
           "frame": 3,
           "source_bbox": [
-            830,
-            139,
-            1098,
-            648
+            851,
+            184,
+            1058,
+            550
           ],
           "source_size": [
-            268,
-            509
+            207,
+            366
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            58,
-            58,
-            134,
+            64,
+            90,
+            127,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\03.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-left\\03.png"
         },
         {
           "frame": 4,
           "source_bbox": [
-            1090,
-            141,
-            1394,
-            649
+            1103,
+            194,
+            1346,
+            578
           ],
           "source_size": [
-            304,
-            508
+            243,
+            384
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            53,
-            58,
-            139,
+            59,
+            85,
+            133,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\04.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-left\\04.png"
         },
         {
           "frame": 5,
           "source_bbox": [
-            1380,
-            145,
-            1635,
-            649
+            1387,
+            212,
+            1613,
+            579
           ],
           "source_size": [
-            255,
-            504
+            226,
+            367
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            59,
-            132,
+            62,
+            90,
+            131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\05.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-left\\05.png"
         },
         {
           "frame": 6,
           "source_bbox": [
-            1634,
-            141,
-            1924,
-            647
+            1671,
+            185,
+            1876,
+            578
           ],
           "source_size": [
-            290,
-            506
+            205,
+            393
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            55,
-            59,
-            137,
+            64,
+            82,
+            127,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\06.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-left\\06.png"
         },
         {
           "frame": 7,
           "source_bbox": [
-            1877,
-            146,
-            2166,
-            649
+            1939,
+            183,
+            2140,
+            554
           ],
           "source_size": [
-            289,
-            503
+            201,
+            371
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            55,
-            59,
-            137,
+            66,
+            89,
+            127,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\07.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running-left\\07.png"
         }
       ]
     },
     {
       "state": "waving",
       "frames": 4,
-      "source_row_ground": 719,
+      "source_row_ground": 700,
       "frame_reports": [
         {
           "frame": 0,
           "source_bbox": [
-            197,
-            23,
-            458,
-            719
+            181,
+            46,
+            426,
+            699
           ],
           "source_size": [
-            261,
-            696
+            245,
+            653
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            59,
-            5,
+            58,
+            3,
             133,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waving\\00.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waving\\00.png"
         },
         {
           "frame": 1,
           "source_bbox": [
-            705,
-            20,
-            969,
-            719
+            694,
+            45,
+            943,
+            700
           ],
           "source_size": [
-            264,
-            699
+            249,
+            655
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
             58,
-            4,
-            133,
+            2,
+            134,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waving\\01.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waving\\01.png"
         },
         {
           "frame": 2,
           "source_bbox": [
-            1210,
-            21,
-            1474,
-            718
+            1229,
+            47,
+            1477,
+            699
           ],
           "source_size": [
-            264,
-            697
+            248,
+            652
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
             58,
-            4,
-            133,
+            3,
+            134,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waving\\02.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waving\\02.png"
         },
         {
           "frame": 3,
           "source_bbox": [
-            1728,
-            20,
-            1989,
-            718
+            1758,
+            46,
+            2002,
+            699
           ],
           "source_size": [
-            261,
-            698
+            244,
+            653
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            59,
-            4,
+            58,
+            3,
             133,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waving\\03.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waving\\03.png"
         }
       ]
     },
     {
       "state": "jumping",
       "frames": 5,
-      "source_row_ground": 704,
+      "source_row_ground": 637,
       "frame_reports": [
         {
           "frame": 0,
           "source_bbox": [
-            69,
-            169,
-            328,
-            704
+            97,
+            231,
+            308,
+            637
           ],
           "source_size": [
-            259,
-            535
+            211,
+            406
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            50,
-            133,
+            64,
+            78,
+            128,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\00.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\jumping\\00.png"
         },
         {
           "frame": 1,
           "source_bbox": [
-            482,
-            85,
-            777,
-            696
+            526,
+            139,
+            752,
+            637
           ],
           "source_size": [
-            295,
-            611
-          ],
-          "source_lift": 8,
-          "target_baseline": 200,
-          "target_bbox": [
-            54,
-            27,
-            138,
-            200
-          ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\01.png"
-        },
-        {
-          "frame": 2,
-          "source_bbox": [
-            899,
-            28,
-            1271,
-            559
-          ],
-          "source_size": [
-            372,
-            531
-          ],
-          "source_lift": 145,
-          "target_baseline": 161,
-          "target_bbox": [
-            44,
-            10,
-            149,
-            161
-          ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\02.png"
-        },
-        {
-          "frame": 3,
-          "source_bbox": [
-            1302,
-            87,
-            1700,
-            649
-          ],
-          "source_size": [
-            398,
-            562
-          ],
-          "source_lift": 55,
-          "target_baseline": 186,
-          "target_bbox": [
-            40,
-            27,
-            153,
-            186
-          ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\03.png"
-        },
-        {
-          "frame": 4,
-          "source_bbox": [
-            1828,
-            187,
-            2078,
-            704
-          ],
-          "source_size": [
-            250,
-            517
+            226,
+            498
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            55,
+            62,
+            50,
             131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\04.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\jumping\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            933,
+            103,
+            1235,
+            522
+          ],
+          "source_size": [
+            302,
+            419
+          ],
+          "source_lift": 115,
+          "target_baseline": 167,
+          "target_bbox": [
+            50,
+            39,
+            142,
+            167
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\jumping\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            1374,
+            161,
+            1699,
+            624
+          ],
+          "source_size": [
+            325,
+            463
+          ],
+          "source_lift": 13,
+          "target_baseline": 198,
+          "target_bbox": [
+            46,
+            57,
+            145,
+            198
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\jumping\\03.png"
+        },
+        {
+          "frame": 4,
+          "source_bbox": [
+            1856,
+            227,
+            2067,
+            637
+          ],
+          "source_size": [
+            211,
+            410
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            64,
+            77,
+            128,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\jumping\\04.png"
         }
       ]
     },
     {
       "state": "failed",
       "frames": 8,
-      "source_row_ground": 705,
+      "source_row_ground": 681,
       "frame_reports": [
         {
           "frame": 0,
           "source_bbox": [
-            30,
-            25,
-            277,
-            705
+            34,
+            105,
+            242,
+            681
           ],
           "source_size": [
-            247,
-            680
+            208,
+            576
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            61,
-            9,
-            131,
+            64,
+            26,
+            128,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\00.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\failed\\00.png"
         },
         {
           "frame": 1,
           "source_bbox": [
-            303,
-            25,
-            548,
-            705
+            305,
+            105,
+            513,
+            681
           ],
           "source_size": [
-            245,
-            680
+            208,
+            576
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            62,
-            9,
-            131,
+            64,
+            26,
+            128,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\01.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\failed\\01.png"
         },
         {
           "frame": 2,
           "source_bbox": [
-            569,
-            26,
-            816,
-            705
+            578,
+            105,
+            787,
+            681
           ],
           "source_size": [
-            247,
-            679
+            209,
+            576
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            61,
-            10,
-            131,
+            64,
+            26,
+            128,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\02.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\failed\\02.png"
         },
         {
           "frame": 3,
           "source_bbox": [
-            838,
-            29,
-            1082,
-            705
+            849,
+            106,
+            1057,
+            681
           ],
           "source_size": [
-            244,
-            676
+            208,
+            575
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            62,
-            10,
-            131,
+            64,
+            26,
+            128,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\03.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\failed\\03.png"
         },
         {
           "frame": 4,
           "source_bbox": [
-            1112,
-            33,
-            1353,
-            705
+            1119,
+            127,
+            1328,
+            681
           ],
           "source_size": [
-            241,
-            672
+            209,
+            554
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            62,
-            12,
-            130,
+            64,
+            33,
+            128,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\04.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\failed\\04.png"
         },
         {
           "frame": 5,
           "source_bbox": [
-            1386,
-            68,
-            1627,
-            705
+            1391,
+            113,
+            1599,
+            681
           ],
           "source_size": [
-            241,
-            637
+            208,
+            568
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            62,
-            21,
-            130,
+            64,
+            29,
+            128,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\05.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\failed\\05.png"
         },
         {
           "frame": 6,
           "source_bbox": [
-            1652,
-            29,
-            1892,
-            705
+            1664,
+            107,
+            1871,
+            681
           ],
           "source_size": [
-            240,
-            676
+            207,
+            574
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            62,
-            10,
-            130,
+            64,
+            27,
+            127,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\06.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\failed\\06.png"
         },
         {
           "frame": 7,
           "source_bbox": [
-            1910,
-            25,
-            2152,
-            705
+            1933,
+            105,
+            2139,
+            681
           ],
           "source_size": [
-            242,
-            680
+            206,
+            576
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            62,
-            9,
-            131,
+            64,
+            26,
+            127,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\07.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\failed\\07.png"
         }
       ]
     },
     {
       "state": "waiting",
       "frames": 6,
-      "source_row_ground": 706,
+      "source_row_ground": 645,
       "frame_reports": [
         {
           "frame": 0,
           "source_bbox": [
-            47,
-            20,
-            303,
-            706
+            75,
+            88,
+            285,
+            645
           ],
           "source_size": [
-            256,
-            686
+            210,
+            557
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            8,
-            133,
+            64,
+            32,
+            128,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\00.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waiting\\00.png"
         },
         {
           "frame": 1,
           "source_bbox": [
-            413,
-            23,
-            680,
-            706
+            426,
+            88,
+            666,
+            645
           ],
           "source_size": [
-            267,
-            683
+            240,
+            557
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            58,
-            8,
-            134,
+            60,
+            32,
+            133,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\01.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waiting\\01.png"
         },
         {
           "frame": 2,
           "source_bbox": [
-            773,
-            22,
-            1037,
-            706
+            788,
+            88,
+            1017,
+            645
           ],
           "source_size": [
-            264,
-            684
+            229,
+            557
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            58,
-            8,
-            133,
+            61,
+            32,
+            131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\02.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waiting\\02.png"
         },
         {
           "frame": 3,
           "source_bbox": [
-            1153,
-            80,
-            1410,
-            706
+            1173,
+            126,
+            1395,
+            645
           ],
           "source_size": [
-            257,
-            626
+            222,
+            519
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            25,
-            133,
+            62,
+            44,
+            130,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\03.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waiting\\03.png"
         },
         {
           "frame": 4,
           "source_bbox": [
-            1515,
-            79,
-            1771,
-            706
+            1522,
+            89,
+            1732,
+            645
           ],
           "source_size": [
-            256,
-            627
+            210,
+            556
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            24,
-            133,
+            64,
+            32,
+            128,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\04.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waiting\\04.png"
         },
         {
           "frame": 5,
           "source_bbox": [
-            1851,
-            20,
-            2107,
-            706
+            1879,
+            88,
+            2086,
+            645
           ],
           "source_size": [
-            256,
-            686
+            207,
+            557
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            8,
-            133,
+            64,
+            32,
+            127,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\05.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\waiting\\05.png"
         }
       ]
     },
     {
       "state": "running",
       "frames": 6,
-      "source_row_ground": 710,
+      "source_row_ground": 684,
       "frame_reports": [
         {
           "frame": 0,
           "source_bbox": [
-            70,
-            29,
-            322,
-            710
+            80,
+            81,
+            305,
+            683
           ],
           "source_size": [
-            252,
-            681
+            225,
+            602
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            9,
+            62,
+            18,
             131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\00.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running\\00.png"
         },
         {
           "frame": 1,
           "source_bbox": [
-            421,
-            27,
-            675,
-            710
+            442,
+            81,
+            660,
+            684
           ],
           "source_size": [
-            254,
-            683
+            218,
+            603
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            8,
-            132,
+            62,
+            18,
+            129,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\01.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running\\01.png"
         },
         {
           "frame": 2,
           "source_bbox": [
-            765,
-            28,
-            1021,
-            710
+            794,
+            81,
+            1013,
+            684
           ],
           "source_size": [
-            256,
-            682
+            219,
+            603
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            9,
-            133,
+            62,
+            18,
+            129,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\02.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running\\02.png"
         },
         {
           "frame": 3,
           "source_bbox": [
-            1124,
-            27,
-            1381,
-            710
+            1153,
+            81,
+            1371,
+            684
           ],
           "source_size": [
-            257,
-            683
+            218,
+            603
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            8,
-            133,
+            62,
+            18,
+            129,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\03.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running\\03.png"
         },
         {
           "frame": 4,
           "source_bbox": [
-            1485,
-            26,
-            1744,
-            710
+            1507,
+            80,
+            1726,
+            684
           ],
           "source_size": [
-            259,
-            684
+            219,
+            604
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            8,
-            133,
+            62,
+            18,
+            129,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\04.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running\\04.png"
         },
         {
           "frame": 5,
           "source_bbox": [
-            1847,
-            29,
-            2101,
-            710
+            1864,
+            81,
+            2088,
+            684
           ],
           "source_size": [
-            254,
-            681
+            224,
+            603
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            9,
-            132,
+            62,
+            18,
+            130,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\05.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\running\\05.png"
         }
       ]
     },
     {
       "state": "review",
       "frames": 6,
-      "source_row_ground": 710,
+      "source_row_ground": 715,
       "frame_reports": [
         {
           "frame": 0,
           "source_bbox": [
-            103,
-            24,
-            349,
-            710
+            79,
+            76,
+            307,
+            715
           ],
           "source_size": [
-            246,
-            686
+            228,
+            639
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
             61,
-            8,
+            7,
             131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\00.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\review\\00.png"
         },
         {
           "frame": 1,
           "source_bbox": [
             440,
-            23,
-            696,
-            710
+            75,
+            668,
+            715
           ],
           "source_size": [
-            256,
-            687
+            228,
+            640
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
+            61,
             7,
-            133,
+            131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\01.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\review\\01.png"
         },
         {
           "frame": 2,
           "source_bbox": [
-            787,
-            79,
-            1047,
-            710
+            796,
+            86,
+            1029,
+            715
           ],
           "source_size": [
-            260,
-            631
+            233,
+            629
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            59,
-            23,
-            133,
+            60,
+            10,
+            131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\02.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\review\\02.png"
         },
         {
           "frame": 3,
           "source_bbox": [
-            1117,
-            29,
-            1368,
-            710
+            1151,
+            74,
+            1381,
+            715
           ],
           "source_size": [
-            251,
-            681
+            230,
+            641
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            9,
+            61,
+            6,
             131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\03.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\review\\03.png"
         },
         {
           "frame": 4,
           "source_bbox": [
-            1466,
-            24,
-            1721,
-            710
+            1506,
+            78,
+            1736,
+            715
           ],
           "source_size": [
-            255,
-            686
+            230,
+            637
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            8,
-            132,
+            61,
+            7,
+            131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\04.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\review\\04.png"
         },
         {
           "frame": 5,
           "source_bbox": [
-            1821,
-            24,
-            2072,
-            710
+            1868,
+            76,
+            2094,
+            715
           ],
           "source_size": [
-            251,
-            686
+            226,
+            639
           ],
           "source_lift": 0,
           "target_baseline": 202,
           "target_bbox": [
-            60,
-            8,
+            62,
+            7,
             131,
             202
           ],
-          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\05.png"
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\proportion-locked-v3\\frames-standard\\review\\05.png"
         }
       ]
     }
