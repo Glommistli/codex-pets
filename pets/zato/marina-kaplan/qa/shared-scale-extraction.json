@@ -1,0 +1,1330 @@
+{
+  "ok": true,
+  "method": "one shared idle-derived source-to-cell scale",
+  "target_reference": "decoded/idle.png (user-confirmed target scale)",
+  "target_idle_height": 196,
+  "source_idle_median_height": 691.5,
+  "shared_scale": 0.28344179320318147,
+  "target_center_x": 96,
+  "target_baseline": 202,
+  "jump_lift_preserved": true,
+  "rows": [
+    {
+      "state": "idle",
+      "frames": 6,
+      "source_row_ground": 711,
+      "frame_reports": [
+        {
+          "frame": 0,
+          "source_bbox": [
+            105,
+            18,
+            360,
+            711
+          ],
+          "source_size": [
+            255,
+            693
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            6,
+            132,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            445,
+            20,
+            717,
+            711
+          ],
+          "source_size": [
+            272,
+            691
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            58,
+            6,
+            135,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            781,
+            22,
+            1048,
+            711
+          ],
+          "source_size": [
+            267,
+            689
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            58,
+            7,
+            134,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            1109,
+            21,
+            1420,
+            711
+          ],
+          "source_size": [
+            311,
+            690
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            52,
+            6,
+            140,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\03.png"
+        },
+        {
+          "frame": 4,
+          "source_bbox": [
+            1456,
+            18,
+            1713,
+            711
+          ],
+          "source_size": [
+            257,
+            693
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            6,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\04.png"
+        },
+        {
+          "frame": 5,
+          "source_bbox": [
+            1808,
+            19,
+            2064,
+            711
+          ],
+          "source_size": [
+            256,
+            692
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            6,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\idle\\05.png"
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "frames": 8,
+      "source_row_ground": 653,
+      "frame_reports": [
+        {
+          "frame": 0,
+          "source_bbox": [
+            1,
+            143,
+            286,
+            651
+          ],
+          "source_size": [
+            285,
+            508
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            56,
+            58,
+            137,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            235,
+            146,
+            542,
+            651
+          ],
+          "source_size": [
+            307,
+            505
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            52,
+            59,
+            139,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            554,
+            140,
+            812,
+            651
+          ],
+          "source_size": [
+            258,
+            511
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            57,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            817,
+            129,
+            1095,
+            648
+          ],
+          "source_size": [
+            278,
+            519
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            56,
+            55,
+            135,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\03.png"
+        },
+        {
+          "frame": 4,
+          "source_bbox": [
+            1057,
+            139,
+            1379,
+            651
+          ],
+          "source_size": [
+            322,
+            512
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            50,
+            57,
+            141,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\04.png"
+        },
+        {
+          "frame": 5,
+          "source_bbox": [
+            1368,
+            140,
+            1624,
+            651
+          ],
+          "source_size": [
+            256,
+            511
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            57,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\05.png"
+        },
+        {
+          "frame": 6,
+          "source_bbox": [
+            1648,
+            145,
+            1921,
+            653
+          ],
+          "source_size": [
+            273,
+            508
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            58,
+            58,
+            135,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\06.png"
+        },
+        {
+          "frame": 7,
+          "source_bbox": [
+            1868,
+            139,
+            2172,
+            651
+          ],
+          "source_size": [
+            304,
+            512
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            53,
+            57,
+            139,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-right\\07.png"
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "frames": 8,
+      "source_row_ground": 649,
+      "frame_reports": [
+        {
+          "frame": 0,
+          "source_bbox": [
+            10,
+            139,
+            324,
+            648
+          ],
+          "source_size": [
+            314,
+            509
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            52,
+            58,
+            141,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            311,
+            141,
+            595,
+            649
+          ],
+          "source_size": [
+            284,
+            508
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            56,
+            58,
+            136,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            564,
+            136,
+            864,
+            647
+          ],
+          "source_size": [
+            300,
+            511
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            54,
+            57,
+            139,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            830,
+            139,
+            1098,
+            648
+          ],
+          "source_size": [
+            268,
+            509
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            58,
+            58,
+            134,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\03.png"
+        },
+        {
+          "frame": 4,
+          "source_bbox": [
+            1090,
+            141,
+            1394,
+            649
+          ],
+          "source_size": [
+            304,
+            508
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            53,
+            58,
+            139,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\04.png"
+        },
+        {
+          "frame": 5,
+          "source_bbox": [
+            1380,
+            145,
+            1635,
+            649
+          ],
+          "source_size": [
+            255,
+            504
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            59,
+            132,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\05.png"
+        },
+        {
+          "frame": 6,
+          "source_bbox": [
+            1634,
+            141,
+            1924,
+            647
+          ],
+          "source_size": [
+            290,
+            506
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            55,
+            59,
+            137,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\06.png"
+        },
+        {
+          "frame": 7,
+          "source_bbox": [
+            1877,
+            146,
+            2166,
+            649
+          ],
+          "source_size": [
+            289,
+            503
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            55,
+            59,
+            137,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running-left\\07.png"
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "frames": 4,
+      "source_row_ground": 719,
+      "frame_reports": [
+        {
+          "frame": 0,
+          "source_bbox": [
+            197,
+            23,
+            458,
+            719
+          ],
+          "source_size": [
+            261,
+            696
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            59,
+            5,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waving\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            705,
+            20,
+            969,
+            719
+          ],
+          "source_size": [
+            264,
+            699
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            58,
+            4,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waving\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            1210,
+            21,
+            1474,
+            718
+          ],
+          "source_size": [
+            264,
+            697
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            58,
+            4,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waving\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            1728,
+            20,
+            1989,
+            718
+          ],
+          "source_size": [
+            261,
+            698
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            59,
+            4,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waving\\03.png"
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "frames": 5,
+      "source_row_ground": 704,
+      "frame_reports": [
+        {
+          "frame": 0,
+          "source_bbox": [
+            69,
+            169,
+            328,
+            704
+          ],
+          "source_size": [
+            259,
+            535
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            50,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            482,
+            85,
+            777,
+            696
+          ],
+          "source_size": [
+            295,
+            611
+          ],
+          "source_lift": 8,
+          "target_baseline": 200,
+          "target_bbox": [
+            54,
+            27,
+            138,
+            200
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            899,
+            28,
+            1271,
+            559
+          ],
+          "source_size": [
+            372,
+            531
+          ],
+          "source_lift": 145,
+          "target_baseline": 161,
+          "target_bbox": [
+            44,
+            10,
+            149,
+            161
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            1302,
+            87,
+            1700,
+            649
+          ],
+          "source_size": [
+            398,
+            562
+          ],
+          "source_lift": 55,
+          "target_baseline": 186,
+          "target_bbox": [
+            40,
+            27,
+            153,
+            186
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\03.png"
+        },
+        {
+          "frame": 4,
+          "source_bbox": [
+            1828,
+            187,
+            2078,
+            704
+          ],
+          "source_size": [
+            250,
+            517
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            55,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\jumping\\04.png"
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "frames": 8,
+      "source_row_ground": 705,
+      "frame_reports": [
+        {
+          "frame": 0,
+          "source_bbox": [
+            30,
+            25,
+            277,
+            705
+          ],
+          "source_size": [
+            247,
+            680
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            61,
+            9,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            303,
+            25,
+            548,
+            705
+          ],
+          "source_size": [
+            245,
+            680
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            62,
+            9,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            569,
+            26,
+            816,
+            705
+          ],
+          "source_size": [
+            247,
+            679
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            61,
+            10,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            838,
+            29,
+            1082,
+            705
+          ],
+          "source_size": [
+            244,
+            676
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            62,
+            10,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\03.png"
+        },
+        {
+          "frame": 4,
+          "source_bbox": [
+            1112,
+            33,
+            1353,
+            705
+          ],
+          "source_size": [
+            241,
+            672
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            62,
+            12,
+            130,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\04.png"
+        },
+        {
+          "frame": 5,
+          "source_bbox": [
+            1386,
+            68,
+            1627,
+            705
+          ],
+          "source_size": [
+            241,
+            637
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            62,
+            21,
+            130,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\05.png"
+        },
+        {
+          "frame": 6,
+          "source_bbox": [
+            1652,
+            29,
+            1892,
+            705
+          ],
+          "source_size": [
+            240,
+            676
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            62,
+            10,
+            130,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\06.png"
+        },
+        {
+          "frame": 7,
+          "source_bbox": [
+            1910,
+            25,
+            2152,
+            705
+          ],
+          "source_size": [
+            242,
+            680
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            62,
+            9,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\failed\\07.png"
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "frames": 6,
+      "source_row_ground": 706,
+      "frame_reports": [
+        {
+          "frame": 0,
+          "source_bbox": [
+            47,
+            20,
+            303,
+            706
+          ],
+          "source_size": [
+            256,
+            686
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            8,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            413,
+            23,
+            680,
+            706
+          ],
+          "source_size": [
+            267,
+            683
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            58,
+            8,
+            134,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            773,
+            22,
+            1037,
+            706
+          ],
+          "source_size": [
+            264,
+            684
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            58,
+            8,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            1153,
+            80,
+            1410,
+            706
+          ],
+          "source_size": [
+            257,
+            626
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            25,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\03.png"
+        },
+        {
+          "frame": 4,
+          "source_bbox": [
+            1515,
+            79,
+            1771,
+            706
+          ],
+          "source_size": [
+            256,
+            627
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            24,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\04.png"
+        },
+        {
+          "frame": 5,
+          "source_bbox": [
+            1851,
+            20,
+            2107,
+            706
+          ],
+          "source_size": [
+            256,
+            686
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            8,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\waiting\\05.png"
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "frames": 6,
+      "source_row_ground": 710,
+      "frame_reports": [
+        {
+          "frame": 0,
+          "source_bbox": [
+            70,
+            29,
+            322,
+            710
+          ],
+          "source_size": [
+            252,
+            681
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            9,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            421,
+            27,
+            675,
+            710
+          ],
+          "source_size": [
+            254,
+            683
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            8,
+            132,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            765,
+            28,
+            1021,
+            710
+          ],
+          "source_size": [
+            256,
+            682
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            9,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            1124,
+            27,
+            1381,
+            710
+          ],
+          "source_size": [
+            257,
+            683
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            8,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\03.png"
+        },
+        {
+          "frame": 4,
+          "source_bbox": [
+            1485,
+            26,
+            1744,
+            710
+          ],
+          "source_size": [
+            259,
+            684
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            8,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\04.png"
+        },
+        {
+          "frame": 5,
+          "source_bbox": [
+            1847,
+            29,
+            2101,
+            710
+          ],
+          "source_size": [
+            254,
+            681
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            9,
+            132,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\running\\05.png"
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "frames": 6,
+      "source_row_ground": 710,
+      "frame_reports": [
+        {
+          "frame": 0,
+          "source_bbox": [
+            103,
+            24,
+            349,
+            710
+          ],
+          "source_size": [
+            246,
+            686
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            61,
+            8,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\00.png"
+        },
+        {
+          "frame": 1,
+          "source_bbox": [
+            440,
+            23,
+            696,
+            710
+          ],
+          "source_size": [
+            256,
+            687
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            7,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\01.png"
+        },
+        {
+          "frame": 2,
+          "source_bbox": [
+            787,
+            79,
+            1047,
+            710
+          ],
+          "source_size": [
+            260,
+            631
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            59,
+            23,
+            133,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\02.png"
+        },
+        {
+          "frame": 3,
+          "source_bbox": [
+            1117,
+            29,
+            1368,
+            710
+          ],
+          "source_size": [
+            251,
+            681
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            9,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\03.png"
+        },
+        {
+          "frame": 4,
+          "source_bbox": [
+            1466,
+            24,
+            1721,
+            710
+          ],
+          "source_size": [
+            255,
+            686
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            8,
+            132,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\04.png"
+        },
+        {
+          "frame": 5,
+          "source_bbox": [
+            1821,
+            24,
+            2072,
+            710
+          ],
+          "source_size": [
+            251,
+            686
+          ],
+          "source_lift": 0,
+          "target_baseline": 202,
+          "target_bbox": [
+            60,
+            8,
+            131,
+            202
+          ],
+          "output": "E:\\forfun\\pets\\spring\\Pets\\MarinaKaplan\\run-2026-10-24\\revisions\\scale-unification-v2\\frames\\review\\05.png"
+        }
+      ]
+    }
+  ]
+}

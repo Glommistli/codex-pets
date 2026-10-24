@@ -1,0 +1,40 @@
+{
+  "validated_at": "2026-10-24",
+  "atlas": {
+    "valid": true,
+    "sprite_version": 2,
+    "width": 1536,
+    "height": 2288,
+    "cell_width": 192,
+    "cell_height": 208,
+    "encoded_bytes": 1705917,
+    "sha256": "da7155b82d08ba24d2462703fa8826c44f09fd62da064c679221b345eb5efeb1"
+  },
+  "quality_gate": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "The 157.5-to-180-degree look transition is more pronounced than its neighbors; manual review confirmed the intended down-right to down semantics and correct clockwise order."
+    ],
+    "airborne_lift_pixels": 41,
+    "landing_delta_pixels": 0,
+    "maximum_look_center_drift_pixels": 3.0,
+    "maximum_look_width_ratio": 1.0151515151515151
+  },
+  "service_preflight": {
+    "valid": true,
+    "errors": [],
+    "pet_id": "pet_6adc334d80c481919595d39ac58865f2",
+    "created": true,
+    "updated": true,
+    "selected": true
+  },
+  "scale_registration": {
+    "passed": true,
+    "reference": "idle strip supplied by the user",
+    "shared_source_to_cell_scale": 0.28344179320318147,
+    "center_x": 96,
+    "ground_baseline": 202,
+    "jump_lift_preserved": true
+  }
+}
