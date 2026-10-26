@@ -1,0 +1,20 @@
+{
+  "directions": {
+    "000": {"expected": "up", "observed": "Asya looks vertically upward while remaining front-facing.", "verdict": "pass", "evidence": "Both yellow pupils sit high in the ochre irises; chin lifts slightly; shoes, apron pocket, and clasped hands remain registered."},
+    "022.5": {"expected": "up-right", "observed": "A subtle viewer-right component enters the upward gaze.", "verdict": "pass", "evidence": "Pupils remain high but shift to the viewer-right; nose and head follow only slightly; planted lower body is unchanged."},
+    "045": {"expected": "up-right", "observed": "The gaze occupies a clear upper-right diagonal.", "verdict": "pass", "evidence": "Pupils and nose move farther viewer-right while the chin remains raised; hair and shoulders follow by a restrained amount."},
+    "067.5": {"expected": "up-right", "observed": "The pose approaches the right cardinal from above.", "verdict": "pass", "evidence": "Face surface is clearly viewer-right of center with pupils still slightly elevated; feet and pocket remain fixed."},
+    "090": {"expected": "right", "observed": "Asya looks unmistakably toward the viewer's right edge.", "verdict": "pass", "evidence": "Nose, both pupils, and face surface lie to the viewer-right of head center; the torso is not rotated as a whole."},
+    "112.5": {"expected": "down-right", "observed": "The rightward pose begins a controlled downward arc.", "verdict": "pass", "evidence": "Pupils lower while remaining viewer-right; chin dips and bangs follow; lower-body registration stays constant."},
+    "135": {"expected": "down-right", "observed": "The gaze is clearly diagonal toward the lower-right.", "verdict": "pass", "evidence": "Pupils occupy the lower-right portion of the eyes, with a modest rightward head turn and lowered chin."},
+    "157.5": {"expected": "down-right", "observed": "The pose is nearly down with a remaining rightward cue.", "verdict": "pass", "evidence": "Chin is lowered and pupils are low; nose and face retain a small viewer-right displacement before the 180 frame."},
+    "180": {"expected": "down", "observed": "Asya looks vertically downward while staying broadly frontal.", "verdict": "pass", "evidence": "Both pupils sit low beneath the bangs, chin drops centrally, and shoes, apron pocket, and clasp remain anchored."},
+    "202.5": {"expected": "down-left", "observed": "A subtle viewer-left component enters the downward gaze.", "verdict": "pass", "evidence": "Pupils remain low and shift viewer-left; nose and head follow slightly without moving the planted body."},
+    "225": {"expected": "down-left", "observed": "The gaze occupies a clear lower-left diagonal.", "verdict": "pass", "evidence": "Pupils and nose are lower-left of center, with matching eyelid and fringe follow-through."},
+    "247.5": {"expected": "down-left", "observed": "The pose approaches the left cardinal from below.", "verdict": "pass", "evidence": "Face surface is clearly viewer-left while pupils remain slightly low; scale and baseline stay unchanged."},
+    "270": {"expected": "left", "observed": "Asya looks unmistakably toward the viewer's left edge.", "verdict": "pass", "evidence": "Nose, both pupils, and face surface lie to the viewer-left of head center; torso, feet, and pocket remain planted."},
+    "292.5": {"expected": "up-left", "observed": "The leftward pose begins a controlled upward arc.", "verdict": "pass", "evidence": "Pupils rise while remaining viewer-left; chin and bangs lift slightly with no lower-body drift."},
+    "315": {"expected": "up-left", "observed": "The gaze is clearly diagonal toward the upper-left.", "verdict": "pass", "evidence": "Pupils occupy the upper-left of the eyes and the nose remains viewer-left; hands and apron keep registration."},
+    "337.5": {"expected": "up-left", "observed": "The pose is nearly up with a remaining leftward cue.", "verdict": "pass", "evidence": "Pupils are high, chin raised, and face retains a small viewer-left displacement before returning to 000."}
+  }
+}

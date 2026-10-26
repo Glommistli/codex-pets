@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "character": {
+    "display_name": "Asya Shubina",
+    "canonical_name": "Asya Shubina / Ася Шубина",
+    "source_work": "Z.A.T.O. // I Love the World and Everything In It",
+    "selected_version": "Grade-8 school-uniform Asya shown in official character and art-pack material",
+    "personality_traits": [
+      "quiet and socially anxious",
+      "thoughtful and philosophically introspective",
+      "loyal and considerate toward friends",
+      "hopeful and persistent despite fear",
+      "capable of gathering quiet resolve"
+    ],
+    "evidence_notes": "Official store material establishes Asya as the quiet outcast protagonist concerned about Ira. Game-derived dialogue supports hesitant speech, frequent apologizing, care for friends, inward reflection, optimism, and later assertiveness. Pet motions are interpretations grounded in those repeated behaviors."
+  },
+  "style": {
+    "family": "pixel",
+    "source_fidelity": "Faithful to the official Z.A.T.O. character sprites and art-pack presentation: compact 2D pixel illustration, muted Soviet-era brown/black/cream palette, expressive gold eyes, dark contour, sparse stipple texture, and restrained animation.",
+    "silhouette": "Compact narrow schoolgirl figure with a large readable head, short jagged bob, inward shoulders, long A-line dress, apron rectangle, and small dark shoes; fixed approximately 1:3.3 head-to-body relationship.",
+    "line_or_edge": "Crisp dark pixel-adjacent contour with occasional thin light separation edge; no smooth painterly outline and no inconsistent antialiasing density.",
+    "palette": [
+      "#6E4434 medium brown hair",
+      "#332823 dark brown dress",
+      "#171719 near-black apron",
+      "#E7DDD1 warm cream lace",
+      "#D7B33D ochre-gold irises",
+      "#F0D94C yellow pupils",
+      "#B84532 red chest pin",
+      "#E5C9C0 pale warm skin"
+    ],
+    "shading": "Flat cel shading with one restrained darker shadow family and sparse pixel-texture accents; stable front-biased neutral lighting in every row.",
+    "texture": "Subtle repeated stipple and short hatch clusters on brown fabric only; texture scale and density must not change between states.",
+    "detail_budget": "At 192x208 preserve the jagged hair shape, both gold eyes, lace collar, apron straps and pocket, character-right red pin, white hem, hands, and dark shoes; omit micro-decoration that cannot survive native-size playback."
+  },
+  "identity": {
+    "species_or_form": "Human teenage schoolgirl",
+    "body_construction": "Fixed narrow torso, compact shoulders, long skirt mass, slim linked arms and legs, large but not chibi head, small hands and shoes; no change in head-to-body ratio between states.",
+    "face": "Pale oval face, very large ochre-gold eyes with small bright yellow pupils and dark rims, tiny nose mark, small restrained mouth; baseline expression is attentive, uncertain, and gentle.",
+    "hair_or_surface": "Short uneven medium-brown bob ending near the jaw and upper neck, heavy jagged bangs, long pointed side strands, no ponytail, no long back hair.",
+    "canonical_costume": "Dark brown long-sleeved ankle-length school dress with warm cream scalloped lace collar, cuffs, and hem; near-black pinafore/apron with two shoulder straps, tied waist, and one large rectangular front pocket; small red rectangular Komsomol-style pin on Asya's character-right chest.",
+    "footwear_or_base": "Small plain near-black shoes visible beneath the long hem; no cast shadow, floor, or stand.",
+    "props": [],
+    "handedness": "unknown; gestures must not rely on a canonical dominant hand",
+    "side_specific_marks": [
+      "The red rectangular pin remains on Asya's character-right chest in every pose and facing direction."
+    ],
+    "forbidden_variants": [
+      "winter coat or white scarf",
+      "casual sweater or home outfit",
+      "long hair or ponytail",
+      "shortened skirt",
+      "missing apron pocket or straps",
+      "red pin on character-left side",
+      "radio, book, cookie, notebook, or any new prop",
+      "Marina Kaplan facial features or silhouette"
+    ]
+  },
+  "proportions": {
+    "cell_width": 192,
+    "cell_height": 208,
+    "canonical_visible_height": 190,
+    "center_x": 96,
+    "ground_baseline": 202,
+    "landmarks": {
+      "hair_top": 12,
+      "eye_line": 39,
+      "chin": 61,
+      "shoulder_line": 73,
+      "waist_line": 112,
+      "apron_pocket_top": 124,
+      "dress_hem": 192,
+      "shoe_baseline": 202
+    },
+    "tolerance_px": {
+      "head_width": 3,
+      "head_height": 3,
+      "shoulder_width": 4,
+      "upright_full_height": 3,
+      "baseline": 1
+    }
+  },
+  "continuity": {
+    "one_canonical_mother_model": true,
+    "global_scale_only": true,
+    "per_frame_scaling": false,
+    "per_state_scaling": false,
+    "allowed_pose_changes": [
+      "rotation and translation of fixed linked body segments",
+      "fixed-length limb articulation",
+      "whole-body vertical translation during jumping",
+      "minor head perspective during look directions without changing core dimensions"
+    ],
+    "forbidden_corrections": [
+      "stretching",
+      "warping",
+      "independent cell fit",
+      "per-frame head resizing",
+      "per-state dress shortening"
+    ]
+  },
+  "background": {
+    "chroma_hex": "#00FFFF",
+    "reason": "Pure cyan is absent from the locked brown, black, cream, gold, red, and skin palette and contrasts strongly with the silhouette."
+  },
+  "actions": {
+    "idle": {
+      "purpose": "calm visibly alive resting loop",
+      "personality_link": "Asya self-soothes quietly rather than standing confidently: inward shoulders, clasped hands, a small thumb rub, soft breath, and a brief upward thought before settling.",
+      "beat_sequence": [
+        "hands clasped near chest with inward shoulders",
+        "small breath and thumb fidget",
+        "brief upward eye movement and blink",
+        "return to the same grounded clasp"
+      ],
+      "signature_cue": "clasped-hands thumb fidget with a tiny thoughtful upward glance",
+      "must_differ_from": ["waiting", "review"]
+    },
+    "running-right": {
+      "purpose": "screen-right locomotion",
+      "personality_link": "Her gait is careful and urgent rather than athletic: short quick steps, elbows tucked, apron and long hem following with restrained lag.",
+      "beat_sequence": [
+        "right-facing contact step",
+        "compact passing pose with elbows tucked",
+        "small airborne stride with stable core",
+        "opposite contact and controlled recovery"
+      ],
+      "signature_cue": "careful short-stride screen-right gait with tucked elbows and restrained hem lag",
+      "must_differ_from": ["working"]
+    },
+    "running-left": {
+      "purpose": "screen-left locomotion",
+      "personality_link": "The same careful urgent gait travels left while preserving the red pin on her character-right side and the correct costume asymmetry.",
+      "beat_sequence": [
+        "left-facing contact step",
+        "compact passing pose with elbows tucked",
+        "small airborne stride with stable core",
+        "opposite contact and controlled recovery"
+      ],
+      "signature_cue": "careful short-stride screen-left gait with correct character-right pin",
+      "must_differ_from": ["working"]
+    },
+    "waving": {
+      "purpose": "greeting or attention gesture",
+      "personality_link": "Asya would not greet with a broad extroverted flourish; she gathers courage, offers a small close-to-body wave, softens into a relieved smile, and re-clasps her hands.",
+      "beat_sequence": [
+        "hands clasped and hesitant glance",
+        "one hand releases and rises close to the shoulder",
+        "two small wrist motions with a shy relieved smile",
+        "hand retracts and both hands clasp again"
+      ],
+      "signature_cue": "hesitant shoulder-close wave emerging from and returning to clasped hands",
+      "must_differ_from": ["working", "waiting"]
+    },
+    "jumping": {
+      "purpose": "natural upward jump and return",
+      "personality_link": "Her jump is a startled but genuine burst of hope: a small crouch, hands pulled to the chest, compact lift, surprised peak, careful landing, and relieved reset.",
+      "beat_sequence": [
+        "small knee bend and tightened clasp",
+        "both feet leave the baseline while hands rise to chest",
+        "compact peak with widened bright eyes",
+        "controlled descent",
+        "same-baseline landing and relieved settle"
+      ],
+      "signature_cue": "compact hopeful hop with hands drawn to the chest at the peak",
+      "must_differ_from": ["idle"]
+    },
+    "failed": {
+      "purpose": "blocked or failed reaction",
+      "personality_link": "Failure first catches in Asya's throat: her eyes widen, clasp tightens, gaze drops aside, shoulders fold, then she breathes and quietly straightens instead of collapsing theatrically.",
+      "beat_sequence": [
+        "wide-eyed realization and frozen clasp",
+        "gaze turns down and aside as shoulders fold inward",
+        "hands rise close to the mouth during a silent stammer",
+        "small breath, hands lower, and posture partially recovers"
+      ],
+      "signature_cue": "silent stammer behind clasped hands followed by a quiet recovery breath",
+      "must_differ_from": ["waiting", "review"]
+    },
+    "waiting": {
+      "purpose": "request approval, help, or user input",
+      "personality_link": "Asya rehearses the request before speaking: one finger starts to rise, she retreats into a clasp, then manages a small open-palm question with earnest eyes.",
+      "beat_sequence": [
+        "tentative raised finger and half-open mouth",
+        "finger retreats and hands clasp during hesitation",
+        "one small open palm extends toward the user",
+        "earnest eye contact holds briefly before reset"
+      ],
+      "signature_cue": "aborted raised-finger request that resolves into one small open palm",
+      "must_differ_from": ["idle", "review"]
+    },
+    "working": {
+      "purpose": "active non-locomotion thinking and processing",
+      "personality_link": "Her concentration is inward and hesitant: she holds one quiet hand-to-chin pose while a user-approved thought bubble emerges to the upper right, displays one question mark, pauses, and withdraws.",
+      "beat_sequence": [
+        "stable hand-to-chin thinking pose with no bubble",
+        "one small thought dot appears above and to viewer-right",
+        "the bubble grows and displays one readable question mark",
+        "the full question-mark bubble holds, then withdraws to a dot before the loop closes"
+      ],
+      "signature_cue": "pixel-stable hand-to-chin pose with one upper-right question-mark thought bubble",
+      "must_differ_from": ["running-right", "running-left", "review"],
+      "cadence": {
+        "profile": "thought-bubble-loop",
+        "max_distinct_key_poses": 1,
+        "min_hold_transitions": 1,
+        "qa_uniform_frame_duration_ms": 120,
+        "effect_box": [108, 0, 84, 96]
+      }
+    },
+    "review": {
+      "purpose": "inspect and judge completed work",
+      "personality_link": "Asya inspects gently but seriously: hands move behind her back, she leans close with a side-to-side eye scan, tilts her head, then gives a small certain nod and warm smile.",
+      "beat_sequence": [
+        "hands behind back and cautious forward lean",
+        "eyes scan across while head remains controlled",
+        "small head tilt and narrowed thoughtful gaze",
+        "upright recovery with one firm nod and gentle smile"
+      ],
+      "signature_cue": "hands-behind-back close inspection ending in one quiet certain nod",
+      "must_differ_from": ["idle", "waiting", "working"]
+    }
+  },
+  "look_mechanics": {
+    "anchored_parts": [
+      "shoes and ground baseline",
+      "hips and lower dress mass",
+      "apron pocket and overall body scale"
+    ],
+    "gaze_leader": "Both ochre-gold eye surfaces and their yellow pupils move coherently first; the nose, chin, and face plane then follow.",
+    "followers": [
+      "eyelids and brows",
+      "head pitch and mild yaw",
+      "jagged bangs and side strands with restrained delayed motion",
+      "a small shoulder response while the lower body remains anchored"
+    ],
+    "occlusion_rules": [
+      "Far eye narrows slightly on horizontal turns but never disappears completely.",
+      "Bangs may overlap part of one brow or eye edge but must not erase direction evidence.",
+      "The red pin stays physically attached to character-right chest and may be mildly foreshortened, never swapped."
+    ],
+    "cardinal_evidence": {
+      "000": "pupils and eye surfaces rise, chin lifts slightly, face remains readable, shoulders stay anchored",
+      "090": "pupils and nose tip shift screen-right with mild rightward head yaw and correct far-eye narrowing",
+      "180": "pupils lower, eyelids follow, chin bows, hair fringe compresses slightly toward the eyes",
+      "270": "pupils and nose tip shift screen-left with mild leftward head yaw and correct far-eye narrowing"
+    },
+    "forbidden_methods": [
+      "whole-sprite rotation",
+      "detached or replacement pupils",
+      "new eye design",
+      "broad raster warp",
+      "body turntable that changes the apron construction",
+      "independent look-cell recentering or rescaling"
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://nopanamaman.itch.io/z-a-t-o-i-love-the-world-and-everything-in-it",
+      "authority": "official",
+      "supports": ["identity", "story role", "quiet-outcast characterization", "creator and work"],
+      "redistribution": "link-only"
+    },
+    {
+      "url": "https://img.itch.zone/aW1nLzI0MDA4MTExLnBuZw%3D%3D/original/kblvLK.png",
+      "authority": "creator",
+      "supports": ["full-body proportions", "school uniform", "pin side", "palette", "expression range"],
+      "redistribution": "link-only"
+    },
+    {
+      "url": "https://store.steampowered.com/app/4122860/ZATO__I_Love_the_World_and_Everything_In_It/",
+      "authority": "official",
+      "supports": ["developer", "publisher", "setting", "official presentation tags"],
+      "redistribution": "link-only"
+    },
+    {
+      "url": "https://dayli.ly/zato-script/",
+      "authority": "secondary game-dialogue mirror",
+      "supports": ["repeated behavior", "expression context", "personality-to-motion mapping"],
+      "redistribution": "link-only"
+    }
+  ]
+}

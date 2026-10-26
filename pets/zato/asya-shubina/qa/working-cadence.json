@@ -1,0 +1,70 @@
+{
+  "ok": true,
+  "atlas": "E:\\forfun\\pets\\codex-pets\\pets\\zato\\asya-shubina\\assets\\spritesheet-v2.png",
+  "state": "working",
+  "row": 7,
+  "mode": "effect-loop",
+  "frame_count": 6,
+  "qa_uniform_frame_duration_ms": 120,
+  "distinct_frames": 5,
+  "maximum_distinct_frames": null,
+  "hold_transitions": 1,
+  "minimum_hold_transitions": 1,
+  "motion_transitions": 5,
+  "effect_box": [
+    108,
+    0,
+    84,
+    96
+  ],
+  "body_stable_outside_effect_box": true,
+  "body_hashes": [
+    "6cb4ed0fbf3e3dc1dd5e448d7d731a268adb1262e6ceb6b4f6416cdecc394a71",
+    "6cb4ed0fbf3e3dc1dd5e448d7d731a268adb1262e6ceb6b4f6416cdecc394a71",
+    "6cb4ed0fbf3e3dc1dd5e448d7d731a268adb1262e6ceb6b4f6416cdecc394a71",
+    "6cb4ed0fbf3e3dc1dd5e448d7d731a268adb1262e6ceb6b4f6416cdecc394a71",
+    "6cb4ed0fbf3e3dc1dd5e448d7d731a268adb1262e6ceb6b4f6416cdecc394a71",
+    "6cb4ed0fbf3e3dc1dd5e448d7d731a268adb1262e6ceb6b4f6416cdecc394a71"
+  ],
+  "transitions": [
+    {
+      "from": 0,
+      "to": 1,
+      "held": false
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "held": false
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "held": false
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "held": true
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "held": false
+    },
+    {
+      "from": 5,
+      "to": 0,
+      "held": false
+    }
+  ],
+  "frame_hashes": [
+    "6fed141d4a745eeb18aed612bec8a246714b123c25e59a26e181095234041792",
+    "a593283fe20d5660e8e2972edf438f2445a20b4b6b6072d0332ca7902c271191",
+    "dc140a4fd731233123613186274b58c8d82985accbe779696ff056681a74266e",
+    "9c5ec983b6355999d5162e1967c707d7c414bc72fce99dd89a6d0c3c77cbb7fc",
+    "9c5ec983b6355999d5162e1967c707d7c414bc72fce99dd89a6d0c3c77cbb7fc",
+    "2f667ff2e3e491ae6acd5e3c83d61f59d6a5f691b182c83d6d9122ae084f0424"
+  ],
+  "errors": []
+}

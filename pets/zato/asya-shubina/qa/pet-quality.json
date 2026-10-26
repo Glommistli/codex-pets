@@ -1,0 +1,63 @@
+{
+  "ok": true,
+  "atlas": "E:\\forfun\\pets\\codex-pets\\pets\\zato\\asya-shubina\\assets\\spritesheet-v2.png",
+  "encoded_bytes": 1734698,
+  "sha256": "8ec55f65d13a9446ec1d7b91152b04892a846ef3eaebf8c4a80f26e282da3178",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      195,
+      188,
+      200,
+      202
+    ],
+    "airborne_lift_pixels": 14,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      95.0,
+      95.0,
+      95.0,
+      95.5,
+      95.5,
+      95.0,
+      95.0,
+      95.5,
+      95.0,
+      94.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      95.5
+    ],
+    "look_widths": [
+      68,
+      68,
+      68,
+      69,
+      69,
+      68,
+      68,
+      69,
+      70,
+      69,
+      69,
+      69,
+      69,
+      69,
+      69,
+      69
+    ],
+    "maximum_center_drift_pixels": 1.0,
+    "maximum_width_ratio": 1.0294117647058822
+  },
+  "errors": [],
+  "warnings": [
+    "337.5->000 diff is a local outlier (1479 pixels vs neighbor average 748)"
+  ]
+}

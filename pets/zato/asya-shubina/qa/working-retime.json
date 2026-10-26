@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "superseded": true,
+  "superseded_by": "working-effect-assembly.json",
+  "note": "The earlier pose-retime loop was replaced by the user-approved thought-bubble loop."
+}

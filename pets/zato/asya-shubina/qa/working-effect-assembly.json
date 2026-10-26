@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "state": "working",
+  "row": 7,
+  "profile": "thought-bubble-loop",
+  "source": "character-specific six-stage generated effect strip",
+  "assembly": {
+    "only_working_row_changed": true,
+    "character_pose": "stable hand-to-chin thinking pose",
+    "character_body_height_pixels": 198,
+    "ground_baseline_y": 203,
+    "effect_box": [108, 0, 84, 96],
+    "sequence": ["no-bubble", "emerging-dot", "growing-bubble", "question-mark-bubble", "question-mark-bubble-hold", "withdrawing-dot"],
+    "body_stable_outside_effect_box": true,
+    "cyan_edge_decontamination": true,
+    "transparent_rgb_residue_pixels": 0
+  }
+}
