@@ -17,6 +17,7 @@ pets/<作品-slug>/<角色-slug>/
 当前宠物：
 
 - [UNREAL LIFE / Hal](pets/unreal-life/hal/README.md)
+- [Z.A.T.O. / Asya Shubina](pets/zato/asya-shubina/README.md)
 - [Z.A.T.O. / 玛丽娜·卡普兰](pets/zato/marina-kaplan/README.md)
 
 ## 说明
